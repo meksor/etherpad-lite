@@ -1,0 +1,6 @@
+[submodule "plugins/ep_mypads"]
+	path = plugins/ep_mypads
+	url = https://github.com/framasoft/ep_mypads
+[submodule "plugins/ep_webrtc"]
+	path = plugins/ep_webrtc
+	url = https://github.com/ether/ep_webrtc
